@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I love coding so much especially on web developer**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.instagram.com/bintangworkk/">
+https://www.instagram.com/bintangworkk/
 <p align="left">
 </p>
 
