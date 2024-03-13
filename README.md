@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bintang Diandra Putra</h1>
 <h3 align="center">iam a new in software engineering especially in Web Developer</h3>
-<img allign="right" alt="coding" width="400" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif">
+<img allign="center" alt="coding" width="400" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bintangdiandra&label=Profile%20views&color=0e75b6&style=flat" alt="bintangdiandra" /> </p>
 
