@@ -21,6 +21,10 @@
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </div><hr>
 
+<h3>Connect With Me</h3>
+<a href="https://www.instagram.com/bintangworkk/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<br>
 <br>
 
 ![BintangDiandra's Stats](https://github-readme-stats.vercel.app/api?username=BintangDiandra&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
