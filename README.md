@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bintang Diandra Putra</h1>
-<h3 align="center">Iam a new in software engineering especially in Web Developer</h3>
-
 <div allign="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bintangdiandra&label=Profile%20views&color=0e75b6&style=flat" alt="bintangdiandra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bintangdiandra&label=Profile%20views&color=0e75b6&style=flat" alt="bintangdiandra" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bintangdiandra" alt="bintangdiandra" /></a> </p>
 
@@ -13,6 +10,4 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bintangdiandra&show_icons=true&locale=en" alt="bintangdiandra" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bintangdiandra&show_icons=true&locale=en&layout=compact" alt="bintangdiandra" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bintangdiandra&" alt="bintangdiandra" /></p>
-
 </div>
