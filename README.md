@@ -5,7 +5,7 @@
 <h3 align="left">Tool Used :</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,ps,npm,gitlab,ae" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,ps,npm,gitlab,ae,nodejs" />
   </a>
 </p><hr>
 <h3 align="left">Front End Used :</h3>
